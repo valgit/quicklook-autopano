@@ -1,0 +1,3 @@
+# test the plugin work ...
+qlmanage -g "~/Library/Developer/Xcode/DerivedData/quicklook-autopano-gvknxyscjcmueqdlkhrhixzbgihq/Build/Products/Debug/quicklook-autopano.qlgenerator" -c "pano" -d 4 -t ~/Dropbox/temp/pano-plage2.pano
+
